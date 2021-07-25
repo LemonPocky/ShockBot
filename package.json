@@ -1,0 +1,28 @@
+{
+  "name": "ShockBot",
+  "version": "1.0.0",
+  "description": "Discord Bot in discord.js for 1v1 player matchmaking (finding opponents)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemonPocky/ShockBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemonPocky/ShockBot/issues"
+  },
+  "homepage": "https://github.com/LemonPocky/ShockBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "eslint": "^7.31.0",
+    "pino": "^6.13.0",
+    "pino-pretty": "^5.1.2",
+    "recursive-readdir": "^2.2.2"
+  }
+}
